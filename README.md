@@ -1,6 +1,8 @@
 # estadistica2021
 
-Valores estadistocos de Z
+Valores estadisticos de Z
+
+## Para valores a la derecha
 
 |alpha|z|
 |:---|:---|
